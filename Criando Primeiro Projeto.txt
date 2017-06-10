@@ -1,9 +1,17 @@
 Executar->CMD
 Navegar até diretório que se deseja criar o projeto
-Exemplo: C:\Projetos\Angular
+Exemplo: cd C
+	 cd Projetos
+	 cd Angular
+Ficando: C:\Projetos\Angular
 
 No diretorio do projeto: C:\Projetos\Angular
 	ng new primeiro-projeto (será criada a estrutura padrão do projeto)
 
+incluir diretorio do projeto criado
+	cd primeiro-projeto
+Ficando: C:\Projetos\Angular\primeiro-projeto
 
-	
+Testar angular navegador
+	ng server 
+Abrir: localhost:4200
