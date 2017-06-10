@@ -1,0 +1,12 @@
+NodeJS
+	https://nodejs.org/en/
+	node -v
+	npm -v
+
+TypeScript
+	npm install -g typescript
+	tsc -v
+
+Angular(CLI)
+	npm install -g @angular/cli
+	ng -v
