@@ -1,0 +1,9 @@
+ng => angular
+g => gerar
+m => modulo
+c=> componente
+
+
+ng g m cursos
+ng g c cursos
+ng g c cursos/curso-detalhe
